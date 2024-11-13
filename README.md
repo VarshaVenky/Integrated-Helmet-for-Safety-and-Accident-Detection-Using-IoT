@@ -84,7 +84,7 @@ Project-Name/ ├── README.md ├── LICENSE ├── docs/ │ ├─�
 ---
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VarshaVenky/Integrated-Helmet-for-Safety-and-Accident-Detection-Using-IoT/blob/master/LICENSE.txt) file for details.
 
 ---
 
